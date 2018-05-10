@@ -1,0 +1,12 @@
+{
+    "enable": true
+    , "name": "TAB_mk's Raffle"
+    , "description": "Test raffle"
+    , "required": [{
+        "noLimits": false
+        , "chatID": "-123"
+	}]
+    , "endDate": "Never >:D"
+    , "adminPerms": true
+    , "additionAdmin": [1, 2, 3]
+}

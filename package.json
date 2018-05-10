@@ -1,0 +1,11 @@
+{
+    "name": "telegram-raffle"
+    , "version": "1.0.0"
+    , "description": "Telegram bot based on node-telegram-bot-api for small raffles."
+    , "main": "index.js"
+    , "author": "TAB_mk"
+    , "license": "MIT"
+    , "dependencies": {
+        "node-telegram-bot-api": "^0.24.0"
+    , }
+}
